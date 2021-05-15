@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="C4G">
+	<name>CodeFourGaming</name>
+	<email>N/A</email>
+	<web>https://codefourgaming.com/</web>
+	<picture>squad.paa</picture>
+	<title>Code Four Gaming</title>
+
+<member id="76561198022233208" nick="Frankyfunkz">
+		<name>Frankyfunkz</name>
+		<email>N/A</email>
+		<icq>N/A</icq>
+		<remark>Happy to help</remark>
+</member>
+</squad>
