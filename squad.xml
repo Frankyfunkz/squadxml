@@ -1,107 +1,23 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="C4G">
-	<name>CodeFourGaming</name>
+<squad nick="NAO">
+	<name>NotGoingToAO</name>
 	<email>N/A</email>
-	<web>https://codefourgaming.com/</web>
+	<web>n/A</web>
 	<picture>squad.paa</picture>
-	<title>CodeFourGaming</title>
+	<title>NotGoingToAO</title>
 
 <member id="76561198022233208" nick="Franky">
 		<name>Franky</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>Happy to help</remark>
-</member>
-<member id="76561198053872767" nick="KaWaeM">
-		<name>KaWaeM</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198332102116" nick="Sinister Sedna">
-		<name>Sinister Sedna</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198044982663" nick="Tobi">
-		<name>Tobi</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198075024207" nick="Plete883">
-		<name>Plete883</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198296091908" nick="Ewan Cassidy">
-		<name>Ewan Cassidy</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198871935377" nick="NATO">
-		<name>NATO</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198302651157" nick="Arctic">
-		<name>Arctic</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561197984870611" nick="Rob">
-		<name>Rob</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198051958429" nick="Irish">
-		<name>Irish</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198106393525" nick="Snus Licker">
-		<name>Snus Licker</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198011030743" nick="Ashley">
-		<name>Ashley</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
+		<remark>Not going to AO</remark>
 </member>
 <member id="76561198033804040" nick="DoxTox">
 		<name>DoxTox</name>
 		<email>N/A</email>
 		<icq>N/A</icq>
-		<remark>C4G</remark>
-</member>
-<member id="76561198847827984" nick="120mm Cant Kill Bradleys">
-                <name>120mm Cant Kill Bradleys</name>
-                <email>N/A</email>
-                <icq>N/A</icq>
-                <remark>C4G</remark>
-</member>
-<member id="76561198346227558" nick="APDS I IceKeKz">
-		<name>IceKeKz</name>
-                <email>N/A</email>
-                <icq>N/A</icq>
-                <remark>C4G</remark>
-</member>
-<member id="76561198094224465" nick="Mne. S. Smith">
-		<name>Smith</name>
-		<email>N/A</email>
-		<icq>N/A</icq>
-		<remark>C4G</remark>
+		<remark>Not going to AO</remark>
 </member>
 </squad>
